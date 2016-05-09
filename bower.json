@@ -1,0 +1,15 @@
+{
+  "name": "cycle-todolist-clone",
+  "version": "0.0.0",
+  "authors": [
+    "Hiron Das <hiron_cse@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
